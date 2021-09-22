@@ -6,8 +6,8 @@ GPIO.setmode(GPIO.BCM)
 red_pin = 18
 green_pin = 23
 blue_pin = 24
-yellow_switch_pin = 8
-purple_switch_pin = 7
+yellow_switch_pin = 7
+purple_switch_pin = 8
 buzzer_pin = 21
 
 # define musical notes
